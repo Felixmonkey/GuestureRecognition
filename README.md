@@ -1,9 +1,8 @@
 # Guesture Recognition
 
-## This is a Torch implementation for guesture recognition based on CNN. There are six kinds of guestures, including 
-`A`, `B`, `C`, `Five`, `Point`, `V`. Some guestures images are shown below:
+This is a Torch implementation for guesture recognition based on CNN. There are six kinds of guestures, including `A`, `B`, `C`, `Five`, `Point`, `V`. Some guestures images are shown below:
 
-<img src="https://raw.githubusercontent.com/Felixmonkey/GuestureRecognition/images/A_1.png">
+<img src="./images/A_1.png">
 <img src="https://raw.githubusercontent.com/Felixmonkey/GuestureRecognition/images/A_2.png">
 <img src="https://raw.githubusercontent.com/Felixmonkey/GuestureRecognition/images/B_293.png">
 <img src="https://raw.githubusercontent.com/Felixmonkey/GuestureRecognition/images/B_300.png">
