@@ -8,9 +8,9 @@ This is a Torch implementation for guesture recognition based on CNN. There are 
 <img src="./images/B_300.png">
 <img src="./images/C_116.png">
 <img src="./images/C_117.png">
-<img src="./F_205.png">
-<img src="./F_212.png">
-<img src="./P_95.png">
+<img src="./images/F_205.png">
+<img src="./images/F_212.png">
+<img src="./images/P_95.png">
 <img src="./images/P_102.png">
 <img src="./images/V_90.png">
 <img src="./images/V_96.png">
